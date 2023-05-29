@@ -1,5 +1,5 @@
 {
-  "name": "webpack-template",
+  "name": "physics-3d",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -54,7 +54,9 @@
     }
   },
   "dependencies": {
+    "@types/three": "^0.152.1",
     "maath": "^0.6.0",
-    "math.js": "^1.1.46"
+    "math.js": "^1.1.46",
+    "three": "^0.152.2"
   }
 }
